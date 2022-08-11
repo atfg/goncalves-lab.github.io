@@ -95,11 +95,11 @@ She remains a Visiting Scientist at the Wellcome Trust Sanger Institute and a Se
 ## Previous lab members
 - Miray Naz Bozkurt, intern 2022
 - Nicolas Le Bel, intern 2021
-- Francisco Javier Botey Bataller, Master student 2020
+- [Francisco Javier Botey Bataller](https://github.com/JaviBotey), Master student 2020
 - Nan Li, PhD Student 2020
-- Luca Penso-Dolfin, Postdoctoral Fellow 2019
+- [Luca Penso-Dolfin](https://github.com/luca8651), Postdoctoral Fellow 2019
 - Roman Schefzik, Postdoctoral Fellow 2019
-- Julian Flesch, intern 2019
+- [Julian Flesch](https://github.com/JulianFlesch), intern 2019
 - Evelin Aasna, Erasmus student 2019
 - Abir Hussein, Erasmus student 2019
 Kinam Gupta	bioinformatics intern April 2019
