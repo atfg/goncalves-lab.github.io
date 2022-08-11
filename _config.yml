@@ -3,6 +3,7 @@ baseurl: ""
 url: "https://goncalves-lab.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
+theme: jekyll-theme-minimal
 title: Goncalves Lab                                    # site's title
 description: "Website of the Goncalves Lab @ DKFZ"      # used by search engines
 avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
