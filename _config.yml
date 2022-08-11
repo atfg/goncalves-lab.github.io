@@ -13,7 +13,7 @@ header_text: Somatic Evolution and Early Detection  # Change Blog header text
 header_feature_image: assets/img/header/triangular.jpeg
 header_feature_image_responsive: true
 footer_text: >
-  Copyright 2022. Forked from <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+  Copyright 2022.
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
