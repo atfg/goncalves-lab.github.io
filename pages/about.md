@@ -6,9 +6,6 @@ feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+It has long been known that mutant clonal evolution by natural selection plays a defining role in the development of cancer. However, this process has been challenging to study in detail prior to the development of cost-effective high-throughput Next-Generation Sequencing (NGS). Using NGS, alterations present in even very small proportions of cells can now be detected. Modelling these alterations can in turn improve our understanding of the emergence of mutant alleles within tissues. Moreover, recently developed single cell RNA sequencing methods can be used to identify somatic mutations in individual cells and assess their effects on the expression of genes, an approach that has been highly informative in the interpretation of the effects of germline variation. A major component of our work is therefore to interpret and develop novel methods for the analysis of NGS data in the context of cancer evolution.
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+Another component of our work is the more general understanding and prediction of genotype to phenotype relationships. For this, we contribute through the development of computational methods for high-dimensional data, including tools for feature selection and differential testing. 
