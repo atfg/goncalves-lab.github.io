@@ -1,10 +1,10 @@
 --- 
 layout: page
-title : Portfolio 
-permalink: /portfolio/
-subtitle: "Projects I am working on" 
+title : Resources 
+permalink: /resources/
+subtitle: "Data and code" 
 feature-img: "assets/img/pexels/computer.jpeg"
 tags: [Page]
 ---
 
-{% include portfolio.html %}
+{% include resources.html %}
