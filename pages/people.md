@@ -17,7 +17,17 @@ tags: [Page]
           <h4 class="card-title">
             <a href="#">Angela Goncalves</a>
           </h4>
-          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+          <p class="card-text">Angela Goncalves is a Junior Group Leader at DKFZ since the beginning of 2018.
+
+She graduated with an MSC in Computer Science from the University of Coimbra in Portugal. Following a stay at the European Space Agency, Angela received a fellowship from the European Molecular Biology Laboratory (EMBL) to study for a PhD at the European Bioinformatics Institute (EBI) in the laboratory of Dr. Alvis Brazma, and obtained her PhD from the University of Cambridge in 2012. During her PhD studies at the European Bioinformatics Institute she investigated the evolution of gene expression regulation during mammalian speciation and developed some of the earliest bioinformatics methods for the analysis of RNA-sequencing data.
+
+After her PhD, she conducted her Postdoctoral Research on population genomics at the Wellcome Trust Sanger Institute in Cambridge in the laboratory of Dr. Daniel Gaffney. There she worked as one of two main analysts in the HIPSCI stem cell bank project funded by the MRC and the Wellcome Trust, in characterising the sources of variation across multiple molecular and cellular phenotypes of induced pluripotent stem cells (iPSCs).
+
+Also during her postdoc she was awarded a Pump Priming grant by the Cambridge Cancer Centre Early Detection Programme to establish the use of menstrual fluid as a model system to track somatic mutations in normal tissues over time.
+
+Her current research interests are in modelling the evolution of somatic mutant clones in normal and pre-malignant tissues, with the view of developing methods for early detection of cancer, and to continue to develop novel bioinformatics methods for the analysis of data from emerging sequencing technologies such as single-cell RNA-sequencing.
+
+She remains a Visiting Scientist at the Wellcome Trust Sanger Institute and a Senior Member of Darwin College of the University of Cambridge.</p>
         </div>
       </div>
     </div>
@@ -82,29 +92,3 @@ tags: [Page]
 </div>
 <!-- /.container -->
 
-| *Group leader* | |
-:-------------------------:|:-------------------------:
-<img src="https://www.dkfz.de/en/somatische-evolution-frueherkennung/Images/Goncalves-Filimon-Angela_8.jpg" data-canonical-src="https://www.dkfz.de/en/somatische-evolution-frueherkennung/Images/Goncalves-Filimon-Angela_8.jpg" width="150" height="195" /> |  [Angela Goncalves](https://goncalves-lab.github.io/angela/)
-| *Staff scientists* | |
-<img src='{{"/public/20190703_115303.jpg" | absolute_url}}' width="150" height="195" /> | Nina Schneider
-| *Postdoctoral fellows* | |
-<img src='{{"/public/pbc.jpg" | absolute_url}}' width="150" height="195" /> | Pablo Baeza-Centurion
-<img src='{{"/public/Portrait_Ivana_071_reduced_01_ccaf38f4b1.jpg" | absolute_url}}' width="150" height="195" /> | Ivana Winkler
-| *PhD students* | |
-<img src="https://www.dkfz.de/de/neurobiologie-von-gehirntumoren/LeoFoerster.jpg" data-canonical-src="https://www.dkfz.de/de/neurobiologie-von-gehirntumoren/LeoFoerster.jpg" width="150" height="195" /> | Leo Förster
-| *Interns* | |
-<img src='{{"/public/Photo_PerrineLacour.png" | absolute_url}}' width="150" height="195" /> | Perrine Lacour
-<img src='{{"/public/per.jpg" | absolute_url}}' width="150" height="195" /> | Nicolas Le Bel
-
-# Previous lab members
-
-| Name | Position |
-:-------------------------:|:-------------------------:
-[Francisco Javier Botey Bataller](https://github.com/JaviBotey) | Master student 2020
-Nan Li | PhD Student 2020
-[Luca Penso-Dolfin](https://github.com/luca8651) | Postdoctoral Fellow 2019
-Roman Schefzik | Postdoctoral Fellow 2018-2019
-[Julian Flesch](https://github.com/JulianFlesch) | intern 2019
-Evelin Aasna | Erasmus student 2019
-Abir Hussein | Erasmus student 2019
-Kinam Gupta | bioinformatics intern April 2019
