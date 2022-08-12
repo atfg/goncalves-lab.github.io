@@ -9,9 +9,15 @@ tags: [Page]
 <!-- Page Content -->
 <div class="container-fluid"> <!-- If Needed Left and Right Padding in 'md' and 'lg' screen means use container class -->
 
-	<div class="row"><div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
-        <img src="https://www.dkfz.de/en/somatische-evolution-frueherkennung/Images/Goncalves-Filimon-Angela_8.jpg" data-canonical-src="https://www.dkfz.de/en/somatische-evolution-frueherkennung/Images/Goncalves-Filimon-Angela_8.jpg" width="150" height="195" />
-	Angela Goncalves
+<div class="row">
+	<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+		<div class="card h-195">
+			<div class="card-body">
+				<h4 class="card-title">Angela Goncalves</h4>
+				<p class="card-text">Angela Goncalves is a Junior Group Leader at DKFZ since the beginning of 2018.</p>
+        			<img src="https://www.dkfz.de/en/somatische-evolution-frueherkennung/Images/Goncalves-Filimon-Angela_8.jpg" data-canonical-src="https://www.dkfz.de/en/somatische-evolution-frueherkennung/Images/Goncalves-Filimon-Angela_8.jpg" width="150" height="195" />
+			</div>
+		</div>
 	</div>
         
 	<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
