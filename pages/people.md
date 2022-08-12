@@ -7,6 +7,27 @@ tags: [Page]
 ---
 
 <!-- Page Content -->
+<div class="container-fluid"> <!-- If Needed Left and Right Padding in 'md' and 'lg' screen means use container class -->
+
+	<div class="row"><div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+        <img src="https://www.dkfz.de/en/somatische-evolution-frueherkennung/Images/Goncalves-Filimon-Angela_8.jpg" data-canonical-src="https://www.dkfz.de/en/somatische-evolution-frueherkennung/Images/Goncalves-Filimon-Angela_8.jpg" width="150" height="195" />
+	Angela Goncalves
+	</div>
+        
+	<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+        <img src="https://www.dkfz.de/en/somatische-evolution-frueherkennung/Images/Goncalves-Filimon-Angela_8.jpg" data-canonical-src="https://www.dkfz.de/en/somatische-evolution-frueherkennung/Images/Goncalves-Filimon-Angela_8.jpg" width="150" height="195" />
+	Angela Goncalves
+        </div>
+        
+	<div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+        <img src="https://www.dkfz.de/en/somatische-evolution-frueherkennung/Images/Goncalves-Filimon-Angela_8.jpg" data-canonical-src="https://www.dkfz.de/en/somatische-evolution-frueherkennung/Images/Goncalves-Filimon-Angela_8.jpg" width="150" height="195" />
+	Angela Goncalves
+        </div>
+   </div>
+</div>
+
+
+
 <div class="container">
 
   <div class="row">
@@ -36,9 +57,9 @@ She remains a Visiting Scientist at the Wellcome Trust Sanger Institute and a Se
         <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
         <div class="card-body">
           <h4 class="card-title">
-            <a href="#">Project Two</a>
+            <a href="#">Pablo Baeza-Centurion</a>
           </h4>
-          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit aliquam aperiam nulla perferendis dolor nobis numquam, rem expedita, aliquid optio, alias illum eaque. Non magni, voluptates quae, necessitatibus unde temporibus.</p>
+          <p class="card-text">Postdoctoral Fellow</p>
         </div>
       </div>
     </div>
@@ -102,5 +123,5 @@ She remains a Visiting Scientist at the Wellcome Trust Sanger Institute and a Se
 - [Julian Flesch](https://github.com/JulianFlesch), intern 2019
 - Evelin Aasna, Erasmus student 2019
 - Abir Hussein, Erasmus student 2019
-Kinam Gupta	bioinformatics intern April 2019
+- Kinam Gupta, intern 2019
 
