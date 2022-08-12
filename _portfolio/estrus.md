@@ -1,7 +1,8 @@
 ---
 layout: post
-title: The function and decline of the female reproductive tract at single-cell resolution
-img: "assets/img/portfolio/estrus.jpg"
+title: Mouse estrus of 5 reproductive organs single-cell data
+img: "assets/img/portfolio/estrus.png"
+feature-img: "assets/img/portfolio/estrus.png"
 date: April, 01 2022
 tags: [data]
 ---
@@ -10,7 +11,7 @@ tags: [data]
 
 
 ## Description
-Organs from the female reproductive tract (FRT) in C57BL/6 mice were sampled. Experimental timepoints were 3 months old mice across all four estrus phases, pregnant (decidualized) and aged (18 months, acyclic) mice. A total of 483,611 cells were sequenced using the 10X Chromium Gene Expression technology. 
+Ovary, oviduct, uterus, cervix and vagina of C57BL/6 mice were sampled. Experimental timepoints were 3 months old mice across all four estrus phases, pregnant (decidualized) and aged (18 months, acyclic) mice. A total of 483,611 cells were sequenced using 10X Chromium Gene Expression technology. 
 
 ## Data exploration app:
 <a href="https://cancerevolution.dkfz.de/estrus/">https://cancerevolution.dkfz.de/estrus</a>
