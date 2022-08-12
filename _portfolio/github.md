@@ -8,4 +8,4 @@ tags: [software]
 
 ![image]({{ page.img | relative_url }})
 
-Source code for various publications.
+<a href="https://github.com/goncalves-lab">Source code</a> for various publications.
