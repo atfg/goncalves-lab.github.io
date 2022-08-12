@@ -1,6 +1,6 @@
 ---
 layout: post
-title: waddR
+title: The function and decline of the female reproductive tract at single-cell resolution
 img: "assets/img/portfolio/estrus.jpg"
 date: April, 01 2022
 tags: [data]
@@ -13,22 +13,22 @@ tags: [data]
 Organs from the female reproductive tract (FRT) in C57BL/6 mice were sampled. Experimental timepoints were 3 months old mice across all four estrus phases, pregnant (decidualized) and aged (18 months, acyclic) mice. A total of 483,611 cells were sequenced using the 10X Chromium Gene Expression technology. 
 
 ## Data exploration app:
-https://cancerevolution.dkfz.de/estrus/
+<a href="https://cancerevolution.dkfz.de/estrus/">https://cancerevolution.dkfz.de/estrus</a>
 
 ## Download links
 scRNA-seq raw and processed data are available at:
-- Arrayexpress (E-MTAB-11491, all sequencing data and expression count matrices)
-- Biostudies (S-BSST852, processed data from diverse analyses)
+- Arrayexpress (<a href="https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-11491/">E-MTAB-11491</a>, all sequencing data and expression count matrices)
+- Biostudies (<a href="https://www.ebi.ac.uk/biostudies/studies/S-BSST852">S-BSST852</a>, processed data from diverse analyses)
 
 Flow cytometry raw data together with the MIFlowCyt protocol are available at:
-- Biostudies (S-BSST864)
+- Biostudies (<a href="https://www.ebi.ac.uk/biostudies/studies/S-BSST864">S-BSST864</a>)
 
 Imaging raw and processed data are available at:
-- Biostudies (S-BIAD482, Histology)
-- Biostudies (S-BIAD476, RNA-scope)
+- Biostudies (<a href="https://www.ebi.ac.uk/biostudies/studies/S-BIAD482">S-BIAD482</a>, Histology)
+- Biostudies (<a href="https://www.ebi.ac.uk/biostudies/studies/S-BIAD476">S-BIAD476</a>, RNA-scope)
 
 Code used in this study is available in github repository:
-- goncalves-lab/estrus_cycle_study
+- <a href="https://github.com/goncalves-lab/estrus_cycle_study">goncalves-lab/estrus_cycle_study</a>
 
 For additional requests and questions please contact Duncan Odom d.odom A-T dkfz-heidelberg.de or Angela Goncalves a.goncalves A-T dkfz-heidelberg.de.
 
