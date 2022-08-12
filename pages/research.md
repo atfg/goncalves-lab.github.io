@@ -6,10 +6,10 @@ feature-img: "assets/img/pexels/travel.jpeg"
 tags: []
 ---
 
-It has long been known that mutant clonal evolution by natural selection plays a defining role in the development of cancer. However, this process has been challenging to study in detail prior to the development of cost-effective high-throughput Next-Generation Sequencing (NGS). Using NGS, alterations present in even very small proportions of cells can now be detected. Modelling these alterations can in turn improve our understanding of the emergence of mutant alleles within tissues. Moreover, recently developed single cell RNA sequencing methods can be used to identify somatic mutations in individual cells and assess their effects on the expression of genes, an approach that has been highly informative in the interpretation of the effects of germline variation. A major component of our work is therefore to interpret and develop novel methods for the analysis of NGS data in the context of cancer evolution.
+## Lab interests
+The Goncalves laboratory is interested in understanding the processes of somatic and regulatory genome evolution during ageing and early carcinogenesis. We are developing multiple projects that combine deep DNA and single-cell sequencing, spatial transcriptomics with functional analysis and comparative genomics with the goal of understanding how the perturbation of genetic sequences can lead to the development of tumours. We also develop computational methods for novel technologies.
 
-Another component of our work is the more general understanding and prediction of genotype to phenotype relationships. For this, we contribute through the development of computational methods for high-dimensional data, including tools for feature selection and differential testing. 
-
+## Current projects
 <div class="container">
   <div class="row">
     <div class="col-xl-3 col-md-6 mb-4">
@@ -17,7 +17,7 @@ Another component of our work is the more general understanding and prediction o
         <img src="/assets/img/carcinogenesis.png" class="card-img-top" width="500" alt="...">
         <div class="card-body text-center">
           <h5 class="card-title mb-0">Comparative genomics of carcinogenesis</h5>
-          <div class="card-text text-black-50"></div>
+          <div class="card-text text-black-50">Collaborative project on identifying drivers of tumour-suppressive micro-environments. It addresses the question of why some organisms, including many humans, never develop cancer in their lifetime. To address this, we are using model organisms with high natural cancer resistance and exceptional longevity such as the naked mole-rat and Ansell’s mole-rat.</div>
         </div>
       </div>
     </div>
@@ -26,6 +26,15 @@ Another component of our work is the more general understanding and prediction o
         <img src="/assets/img/ageing.png" class="card-img-top" width="500" alt="...">
         <div class="card-body text-center">
           <h5 class="card-title mb-0">Comparative genomics of ageing</h5>
+          <div class="card-text text-black-50"></div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="col-xl-3 col-md-6 mb-4">
+      <div class="card border-0 shadow">
+        <div class="card-body text-center">
+          <h5 class="card-title mb-0">Method development for single-cell data</h5>
           <div class="card-text text-black-50"></div>
         </div>
       </div>
