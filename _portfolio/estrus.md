@@ -2,8 +2,7 @@
 layout: post
 title: Mouse estrus single-cell data
 img: "assets/img/portfolio/estrus.png"
-feature-img: "assets/img/portfolio/estrus.png"
-date: April, 01 2022
+date: Augues, 12 2022
 tags: [data]
 ---
 
