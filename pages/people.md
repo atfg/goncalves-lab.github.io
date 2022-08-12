@@ -63,7 +63,7 @@ tags: [Page]
     <!-- Team Member 3 -->
     <div class="col-xl-3 col-md-6 mb-4">
       <div class="card border-0 shadow">
-        <img src="/assets/img/pl.png" class="card-img-top" alt="...">
+        <img src="/assets/img/pl.png" class="card-img-top" width="150" alt="...">
         <div class="card-body text-center">
           <h5 class="card-title mb-0">Perrine Lacour</h5>
           <div class="card-text text-black-50">PhD student</div>
