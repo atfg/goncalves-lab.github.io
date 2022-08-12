@@ -23,7 +23,7 @@ tags: [Page]
     <!-- Team Member 2 -->
     <div class="col-xl-3 col-md-6 mb-4">
       <div class="card border-0 shadow">
-        <img src="assets/img/ns.jpeg" class="card-img-top" width="150" alt="...">
+        <img src="/assets/img/ns.jpeg" class="card-img-top" width="150" alt="...">
         <div class="card-body text-center">
           <h5 class="card-title mb-0">Nina Schneider</h5>
           <div class="card-text text-black-50">Staff technician</div>
@@ -33,7 +33,7 @@ tags: [Page]
     <!-- Team Member 2 -->
     <div class="col-xl-3 col-md-6 mb-4">
       <div class="card border-0 shadow">
-        <img src="assets/img/pbc.jpeg" class="card-img-top" width="150" alt="...">
+        <img src="/assets/img/pbc.jpeg" class="card-img-top" width="150" alt="...">
         <div class="card-body text-center">
           <h5 class="card-title mb-0">Pablo Baeza-Centurion</h5>
           <div class="card-text text-black-50">Postdoctoral Fellow</div>
@@ -43,7 +43,7 @@ tags: [Page]
     <!-- Team Member 2 -->
     <div class="col-xl-3 col-md-6 mb-4">
       <div class="card border-0 shadow">
-        <img src="assets/img/iw.jpeg" class="card-img-top" width="150" alt="...">
+        <img src="/assets/img/iw.jpeg" class="card-img-top" width="150" alt="...">
         <div class="card-body text-center">
           <h5 class="card-title mb-0">Ivana Winkler</h5>
           <div class="card-text text-black-50">Postdoctoral Fellow</div>
@@ -63,7 +63,7 @@ tags: [Page]
     <!-- Team Member 3 -->
     <div class="col-xl-3 col-md-6 mb-4">
       <div class="card border-0 shadow">
-        <img src="assets/img/pl.png" class="card-img-top" alt="...">
+        <img src="/assets/img/pl.png" class="card-img-top" alt="...">
         <div class="card-body text-center">
           <h5 class="card-title mb-0">Perrine Lacour</h5>
           <div class="card-text text-black-50">PhD student</div>
