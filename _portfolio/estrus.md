@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mouse estrus of 5 reproductive organs single-cell data
+title: Mouse estrus single-cell data
 img: "assets/img/portfolio/estrus.png"
 feature-img: "assets/img/portfolio/estrus.png"
 date: April, 01 2022
