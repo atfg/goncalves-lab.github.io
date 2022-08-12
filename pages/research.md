@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 feature-img: "assets/img/pexels/travel.jpeg"
-tags: [Page]
+tags: []
 ---
 
 It has long been known that mutant clonal evolution by natural selection plays a defining role in the development of cancer. However, this process has been challenging to study in detail prior to the development of cost-effective high-throughput Next-Generation Sequencing (NGS). Using NGS, alterations present in even very small proportions of cells can now be detected. Modelling these alterations can in turn improve our understanding of the emergence of mutant alleles within tissues. Moreover, recently developed single cell RNA sequencing methods can be used to identify somatic mutations in individual cells and assess their effects on the expression of genes, an approach that has been highly informative in the interpretation of the effects of germline variation. A major component of our work is therefore to interpret and develop novel methods for the analysis of NGS data in the context of cancer evolution.
