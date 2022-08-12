@@ -17,7 +17,7 @@ The Goncalves laboratory is interested in understanding the processes of somatic
         <img src="/assets/img/carcinogenesis.png" class="card-img-top" width="500" alt="...">
         <div class="card-body text-center">
           <h5 class="card-title mb-0">Comparative genomics of carcinogenesis</h5>
-          <div class="card-text text-black-50">Collaborative project on identifying drivers of tumour-suppressive micro-environments. It addresses the question of why some organisms, including many humans, never develop cancer in their lifetime. To address this, we are using model organisms with high natural cancer resistance and exceptional longevity such as the naked mole-rat and Ansell’s mole-rat.</div>
+          <div class="card-text text-black-50" width="500">Collaborative project on identifying drivers of tumour-suppressive micro-environments. It addresses the question of why some organisms, including many humans, never develop cancer in their lifetime. To address this, we are using model organisms with high natural cancer resistance and exceptional longevity such as the naked mole-rat and Ansell’s mole-rat.</div>
         </div>
       </div>
     </div>
