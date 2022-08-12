@@ -3,7 +3,7 @@ layout: page
 title: People
 permalink: /people/
 feature-img: "assets/img/pexels/computer.jpeg"
-tags: [Page]
+tags: [photos]
 ---
 
 <!-- Page Content -->

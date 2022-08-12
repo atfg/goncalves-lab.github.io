@@ -3,7 +3,7 @@ layout: page
 title: Join us
 permalink: /jobs/
 feature-img: "assets/img/pexels/travel.jpeg"
-tags: [Page]
+tags: [jobs]
 ---
 
 ### Computational/bioinformatics candidates

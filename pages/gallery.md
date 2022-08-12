@@ -4,7 +4,7 @@ title: Gallery
 subtitle: Group events
 permalink: /gallery/
 gallery_path: "assets/img/pexels"
-tags: [Page]
+tags: [photos]
 ---
 
 
