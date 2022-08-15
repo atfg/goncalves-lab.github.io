@@ -13,7 +13,7 @@ The Goncalves laboratory is interested in understanding the processes of somatic
 ## Current projects
 <div class="container">
   <div class="row">
-    <div class="col-4">
+    <div class="col-3">
       <div class="card border-0 shadow">
         <img src="/assets/img/carcinogenesis.png" class="card-img-top" width="500" alt="...">
         <div class="card-body">
@@ -22,7 +22,7 @@ The Goncalves laboratory is interested in understanding the processes of somatic
         </div>
       </div>
     </div>
-    <div class="col-4">
+    <div class="col-3">
       <div class="card border-0 shadow">
         <img src="/assets/img/ageing.png" class="card-img-top" width="500" alt="...">
         <div class="card-body">
@@ -31,12 +31,13 @@ The Goncalves laboratory is interested in understanding the processes of somatic
         </div>
       </div>
     </div>
-    
-    <div class="col-4">
+  </div>
+  <div class="row">
+    <div class="col-3">
       <div class="card border-0 shadow">
         <div class="card-body">
           <h5 class="card-title mb-0">Method development for single-cell data</h5>
-          <div class="card-text text-black-50">The throughput of routine single-cell experiments is projected to reach a million cells by the beginning of 2023, which poses important computational challenges for the analysis of these datasets. We apply transport theory to develop lightweight non-parametric method for the analysis of large single-cell experiments.</div>
+          <div class="card-text text-black-50">The throughput of routine single-cell experiments is projected to reach a million cells by the beginning of 2023, which poses important computational challenges for the analysis of these datasets.To alleviate the issue we apply transport theory to develop lightweight non-parametric methods for the analysis of large single-cell experiments.</div>
         </div>
       </div>
     </div>
