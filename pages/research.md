@@ -18,25 +18,25 @@ The Goncalves laboratory is interested in understanding the processes of somatic
         <img src="/assets/img/carcinogenesis.png" class="card-img-top" width="500" alt="...">
         <div class="card-body">
           <h5 class="card-title mb-0">Comparative genomics of carcinogenesis</h5>
-          <div class="card-text text-black-50" width="500">Collaborative project on identifying drivers of tumour-suppressive micro-environments. It addresses the question of why some organisms, including many humans, never develop cancer in their lifetime. To address this, we are using model organisms with high natural cancer resistance and exceptional longevity such as the naked mole-rat and Ansell’s mole-rat.</div>
+          <div class="card-text text-black-50" width="500">Why do some organisms, including many humans, never develop cancer in their lifetime? To address this question, we are using model organisms with high natural cancer resistance and exceptional longevity such as the naked mole-rat and Ansell’s mole-rat.</div>
         </div>
       </div>
     </div>
     <div class="col-4">
       <div class="card border-0 shadow">
         <img src="/assets/img/ageing.png" class="card-img-top" width="500" alt="...">
-        <div class="card-body text-center">
+        <div class="card-body">
           <h5 class="card-title mb-0">Comparative genomics of ageing</h5>
-          <div class="card-text text-black-50"></div>
+          <div class="card-text text-black-50">In humans, the female reproductive system plays a significant role in shaping life- and health- span. In our group we functionally model homeostasis and dysregulation of the female reproductive tract over ageing and upon hormonal perturbation in mouse models and in human, using high-throughput sequencing of single-cell experiments.</div>
         </div>
       </div>
     </div>
     
     <div class="col-4">
       <div class="card border-0 shadow">
-        <div class="card-body text-center">
+        <div class="card-body">
           <h5 class="card-title mb-0">Method development for single-cell data</h5>
-          <div class="card-text text-black-50"></div>
+          <div class="card-text text-black-50">The throughput of routine single-cell experiments is projected to reach a million cells by the beginning of 2023, which poses important computational challenges for the analysis of these datasets. We apply transport theory to develop lightweight non-parametric method for the analysis of large single-cell experiments.</div>
         </div>
       </div>
     </div>
