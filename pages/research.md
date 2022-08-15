@@ -13,7 +13,7 @@ The Goncalves laboratory is interested in understanding the processes of somatic
 ## Current projects
 <div class="container">
   <div class="row">
-    <div class="col-3">
+    <div class="col-4">
       <div class="card border-0 shadow">
         <img src="/assets/img/carcinogenesis.png" class="card-img-top" width="500" alt="...">
         <div class="card-body">
@@ -22,7 +22,7 @@ The Goncalves laboratory is interested in understanding the processes of somatic
         </div>
       </div>
     </div>
-    <div class="col-3">
+    <div class="col-4">
       <div class="card border-0 shadow">
         <img src="/assets/img/ageing.png" class="card-img-top" width="500" alt="...">
         <div class="card-body">
@@ -33,7 +33,7 @@ The Goncalves laboratory is interested in understanding the processes of somatic
     </div>
   </div>
   <div class="row">
-    <div class="col-3">
+    <div class="col-4">
       <div class="card border-0 shadow">
 	<img src="/assets/img/diffdistrib.png" class="card-img-top" width="500" alt="...">
         <div class="card-body">
