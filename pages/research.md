@@ -16,7 +16,7 @@ The Goncalves laboratory is interested in understanding the processes of somatic
     <div class="col-xl-3 col-md-6 mb-4">
       <div class="card border-0 shadow">
         <img src="/assets/img/carcinogenesis.png" class="card-img-top" width="500" alt="...">
-        <div class="card-body text-center">
+        <div class="card-body">
           <h5 class="card-title mb-0">Comparative genomics of carcinogenesis</h5>
           <div class="card-text text-black-50" width="500">Collaborative project on identifying drivers of tumour-suppressive micro-environments. It addresses the question of why some organisms, including many humans, never develop cancer in their lifetime. To address this, we are using model organisms with high natural cancer resistance and exceptional longevity such as the naked mole-rat and Ansell’s mole-rat.</div>
         </div>
@@ -44,40 +44,3 @@ The Goncalves laboratory is interested in understanding the processes of somatic
   </div>
 </div>
 
-<div class="album py-5 bg-light">
-   <div class="container">
-
-          <div class="row">
-            <div class="col-md-4">
-              <div class="card mb-4 box-shadow">
-		<img src="/assets/img/carcinogenesis.png" class="card-img-top" width="500" alt="...">
-                <div class="card-body">
-                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                  <div class="d-flex justify-content-between align-items-center">
-                    <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                      <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                    </div>
-                    <small class="text-muted">9 mins</small>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4">
-              <div class="card mb-4 box-shadow">
-                <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
-                <div class="card-body">
-                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                  <div class="d-flex justify-content-between align-items-center">
-                    <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                      <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                    </div>
-                    <small class="text-muted">9 mins</small>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-   </div>
-</div>
