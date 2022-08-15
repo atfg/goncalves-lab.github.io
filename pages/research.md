@@ -18,7 +18,7 @@ The Goncalves laboratory is interested in understanding the processes of somatic
         <img src="/assets/img/carcinogenesis.png" class="card-img-top" width="500" alt="...">
         <div class="card-body">
           <h5 class="card-title mb-0">Comparative genomics of carcinogenesis</h5>
-          <div class="card-text text-black-50" width="500">Why do some organisms, including many humans, never develop cancer in their lifetime? To address this question, we are using model organisms with high natural cancer resistance and exceptional longevity such as the naked mole-rat and Ansell’s mole-rat.</div>
+          <div class="card-text text-black-50" width="500">Why do some organisms, including many humans, never develop cancer in their lifetime? To address this question, we are studying model organisms with high natural cancer resistance and exceptional longevity such as the naked mole-rat and Ansell’s mole-rat.</div>
         </div>
       </div>
     </div>
