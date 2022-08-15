@@ -3,6 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 feature-img: "assets/img/pexels/travel.jpeg"
+bootstrap: true
 tags: []
 ---
 
