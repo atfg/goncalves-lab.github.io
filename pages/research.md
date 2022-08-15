@@ -33,7 +33,7 @@ The Goncalves laboratory is interested in understanding the processes of somatic
     </div>
   </div>
   <div class="row">
-    <div class="col-3">
+    <div class="col col-lg-2">
       <div class="card border-0 shadow">
 	<img src="/assets/img/diffdistrib.png" class="card-img-top" width="200" alt="...">
         <div class="card-body">
