@@ -84,6 +84,19 @@ tags: [photos]
     </div>
   </div>
   <!-- /.row -->
+  <div class="row">
+     <!-- Team Member 8 -->
+    <div class="col-xl-3 col-md-6 mb-4">
+      <div class="card border-0 shadow">
+        <img src="https://media.licdn.com/dms/image/C4D03AQGmKirgCfmneQ/profile-displayphoto-shrink_800_800/0/1649605925145?e=1683763200&v=beta&t=jjgjxvj-rN1O3FEjM_dQyyB6O3TMJDnCSF0S3uZcKy4" class="card-img-top" width="150" alt="...">
+        <div class="card-body text-center">
+          <h5 class="card-title mb-0">Damien Legros</h5>
+          <div class="card-text text-black-50">Intern</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- /.row -->
 </div>
 <!-- /.container -->
 
