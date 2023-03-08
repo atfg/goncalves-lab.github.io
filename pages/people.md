@@ -50,6 +50,18 @@ tags: [photos]
         </div>
       </div>
     </div>
+    <!-- Team Member 3 -->
+    <div class="col-xl-3 col-md-6 mb-4">
+      <div class="card border-0 shadow">
+        <img src="https://www.dkfz.de/de/regulatorische-genomik/busa_v_pic_0.jpg" class="card-img-top" width="150" alt="...">
+        <div class="card-body text-center">
+          <h5 class="card-title mb-0">Veronica Busa</h5>
+          <div class="card-text text-black-50">Postdoctoral Fellow</div>
+        </div>
+      </div>
+    </div>
+    
+    
     <!-- Team Member 2 -->
     <div class="col-xl-3 col-md-6 mb-4">
       <div class="card border-0 shadow">
