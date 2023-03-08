@@ -6,6 +6,10 @@ feature-img: "assets/img/pexels/travel.jpeg"
 tags: []
 ---
 
+### Somatic evolution in ageing and carcinogenesis
+
+* Winkler I., Tolkachov A., Lammers F., Lacour P., Schneider N., Koch M.L., Panten J., Grünschläger F., Daugelaite K., Poth T., Haas S., Odom D.T.*, Goncalves A.* [The function and decline of the female reproductive tract at single-cell resolution](https://www.biorxiv.org/content/10.1101/2022.10.26.513823v1). bioRxiv, 2023.
+
 ### Methods/software
 
 * Schefzik R., Flesch J., Goncalves A. (2020). [Fast identification of differential distributions in single-cell RNA-sequencing data with waddR](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab226/6207964). Bioinformatics, btab226.
