@@ -60,18 +60,18 @@ tags: [photos]
         </div>
       </div>
     </div>
-  </div>
-  <!-- Team Member 2 -->
-    <div class="col-xl-3 col-md-6 mb-4">
-      <div class="card border-0 shadow">
-        <img src="https://www.dkfz.de/de/neurobiologie-von-gehirntumoren/LeoFoerster.jpg" class="card-img-top" width="150" alt="...">
-        <div class="card-body text-center">
-          <h5 class="card-title mb-0">Leo Foerster</h5>
-          <div class="card-text text-black-50">PhD student</div>
-        </div>
+  
+  <!-- Leo -->
+  <div class="col-xl-3 col-md-6 mb-4">
+    <div class="card border-0 shadow">
+      <img src="https://www.dkfz.de/de/neurobiologie-von-gehirntumoren/LeoFoerster.jpg" class="card-img-top" width="150" alt="...">
+      <div class="card-body text-center">
+        <h5 class="card-title mb-0">Leo Foerster</h5>
+        <div class="card-text text-black-50">PhD student</div>
       </div>
     </div>
-    <!-- Team Member 3 -->
+  </div>
+    <!-- Perrine -->
     <div class="col-xl-3 col-md-6 mb-4">
       <div class="card border-0 shadow">
         <img src="/assets/img/pl.png" class="card-img-top" width="150" alt="...">
@@ -81,6 +81,7 @@ tags: [photos]
         </div>
       </div>
     </div>
+  </div>
   <!-- /.row -->
   <div class="row">
      <!-- Team Member 8 -->
