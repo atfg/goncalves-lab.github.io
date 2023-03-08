@@ -8,7 +8,7 @@ tags: []
 
 ### Somatic evolution, ageing and carcinogenesis
 
-* Winkler I., Tolkachov A., Lammers F., Lacour P., Schneider N., Koch M.L., Panten J., Grünschläger F., Daugelaite K., Poth T., Haas S., Odom D.T., Goncalves A. [The function and decline of the female reproductive tract at single-cell resolution](https://www.biorxiv.org/content/10.1101/2022.10.26.513823v1). bioRxiv, 2023.
+* Winkler I., Tolkachov A., Lammers F., Lacour P., Schneider N., Koch M.L., Panten J., Grünschläger F., Daugelaite K., Poth T., Haas S., Odom D.T., Goncalves A. (2023). [The function and decline of the female reproductive tract at single-cell resolution](https://www.biorxiv.org/content/10.1101/2022.10.26.513823v1). bioRxiv.
 
 ### Methods/software
 
